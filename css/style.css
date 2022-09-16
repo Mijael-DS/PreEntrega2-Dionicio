@@ -355,6 +355,26 @@ p {
   justify-content: center;
 }
 
+@media (min-width: 300px) and (max-width: 578px)  {
+  .card-serv {
+    display: none;
+  }
+  .full-screen  {
+    height: 100vh;
+  }
+  .img-item {
+    height: 200px;
+    gap: 10px;
+    
+  }
+
+  .item-one img {
+    height: 150px;
+    border-radius: 2%;
+  }
+}
+
+
 
 @media (min-width: 578px) and (max-width: 750px) {
     .full-screen  {
