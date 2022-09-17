@@ -358,7 +358,7 @@ p {
 @media (min-width: 300px) and (max-width: 372px)  {
   .card-serv {
     display: none;
-  }
+  } 
   .full-screen  {
     height: 100vh;
   }
