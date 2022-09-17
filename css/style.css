@@ -358,7 +358,7 @@ p {
 
 footer  {
   background:  linear-gradient(35deg, #CCFFFF, #FFCCCC);
-  
+  grid-area: footer;
 }
 
 
@@ -483,7 +483,7 @@ footer  {
     height: 50px;
     
   } */
-}
+}         
   
 @media (min-width: 1000px) and (max-width: 1300px) {
   .full-screen  {
